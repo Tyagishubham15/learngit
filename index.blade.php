@@ -8,6 +8,10 @@
 </head>
 <body>
     <h1>Git learn</h1>
-    
+    <?php
+    for ($x = 0; $x <= 10; $x++){
+     echo "in dev branch";
+    }
+  ?>
 </body>
 </html>
